@@ -1,0 +1,16 @@
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.csprojAssemblyReference.cache
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.AssemblyInfoInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.AssemblyInfo.cs
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.csproj.CoreCompileInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.exe
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.deps.json
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.runtimeconfig.json
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.runtimeconfig.dev.json
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.dll
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\bin\Debug\net5.0\ref\WorkingWithStreams.dll
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\bin\Debug\net5.0\WorkingWithStreams.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.dll
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\obj\Debug\net5.0\ref\WorkingWithStreams.dll
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithStreams\obj\Debug\net5.0\WorkingWithStreams.genruntimeconfig.cache

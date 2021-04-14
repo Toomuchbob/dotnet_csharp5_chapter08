@@ -1,0 +1,16 @@
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.csprojAssemblyReference.cache
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.AssemblyInfoInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.AssemblyInfo.cs
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.csproj.CoreCompileInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.exe
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.deps.json
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.runtimeconfig.json
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.runtimeconfig.dev.json
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.dll
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\ref\WorkingWithText.dll
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\bin\Debug\net5.0\WorkingWithText.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.dll
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\ref\WorkingWithText.dll
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithText\obj\Debug\net5.0\WorkingWithText.genruntimeconfig.cache

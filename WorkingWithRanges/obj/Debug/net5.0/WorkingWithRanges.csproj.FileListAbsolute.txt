@@ -1,0 +1,16 @@
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.csprojAssemblyReference.cache
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.AssemblyInfoInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.AssemblyInfo.cs
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.csproj.CoreCompileInputs.cache
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.exe
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.deps.json
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.runtimeconfig.json
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.runtimeconfig.dev.json
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.dll
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\bin\Debug\net5.0\ref\WorkingWithRanges.dll
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\bin\Debug\net5.0\WorkingWithRanges.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.dll
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\obj\Debug\net5.0\ref\WorkingWithRanges.dll
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.pdb
+C:\Code\c#\c#9&.net5\Code\Chapter08\WorkingWithRanges\obj\Debug\net5.0\WorkingWithRanges.genruntimeconfig.cache
